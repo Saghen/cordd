@@ -1,0 +1,11 @@
+{
+  "name": "@cordd/core",
+  "version": "0.0.1-rc1",
+  "description": "Core for @cordd Discord API library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Liam Dyer",
+  "license": "MIT"
+}
